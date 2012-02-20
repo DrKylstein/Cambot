@@ -1,0 +1,5 @@
+It is crude and messy, but it may be helpful to anyone trying to do face 
+tracking or to view a webcam from a PyQt/Pyside application. Thanks to 
+Rafael Barreto 
+(http://rafaelbarreto.com/2011/08/27/a-pyqt-widget-for-opencv-camera-preview/) 
+and Nirav Patel (http://eclecti.cc 5/20/2008) for their examples.
