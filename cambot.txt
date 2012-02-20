@@ -1,0 +1,20 @@
+20120220
+hardware complete except for painting. 
+Basic Qt interface functional but crude.
+Still need a work around for face-tracking while streaming
+Plan to add static position recall and better manual positioning
+
+20111108
+prototype hardware complete
+	-need appropriate jacks installed on enclosure
+	-secure electronics inside
+	-paint
+inital software complete: basic face tracking
+	-servo controller class could be enhanced to make cambot control class redundant/trivial
+	-create Qt interface with buttons and optional preview
+	-workaround for stream mutex--capture from screen?
+	-voice recognition
+
+20110923
+webcam with software controlled pan, tilt, zoom?, truck?
+replica of mst3k cambot?
